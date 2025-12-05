@@ -40,7 +40,8 @@ const portfolioData = [
                 title: "Product Redesign for a Friend",
                 type: "Presentation",
                 description: "Applying design thinking to redesign a product based on user needs and empathy",
-                link: "https://www.canva.com/design/DAG6bLF8MTY/xy3ENbvRgxtmH6AvKlyf0Q/view?utm_content=DAG6bLF8MTY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf3e7bb42b8"
+                link: "https://www.canva.com/design/DAG6bLF8MTY/xy3ENbvRgxtmH6AvKlyf0Q/view?utm_content=DAG6bLF8MTY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf3e7bb42b8",
+                embedUrl: "https://www.canva.com/design/DAG6bLF8MTY/n6vKCcl_p-0dOW6B_73xUw/view?embed"
             },
             {
                 id: 2,
@@ -48,7 +49,8 @@ const portfolioData = [
                 type: "Presentation",
                 icon: "👛",
                 description: "Iterative design process for reimagining the everyday wallet experience",
-                link: "https://www.canva.com/design/DAG6bDKs4es/WyR7wKsY8X4Tc5iPmdGkCg/view?utm_content=DAG6bDKs4es&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb35b08141a"
+                link: "https://www.canva.com/design/DAG6bDKs4es/WyR7wKsY8X4Tc5iPmdGkCg/view?utm_content=DAG6bDKs4es&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb35b08141a",
+                embedUrl: "https://www.canva.com/design/DAG6bDKs4es/_ZmAlcZZjwbBlLt7aQ1x0w/view?embed"
             }
         ]
     },
@@ -87,7 +89,8 @@ const portfolioData = [
                 type: "PDF Document",
                 icon: "🪵",
                 description: "Wood material exploration, properties, and fabrication processes",
-                link: "https://www.canva.com/design/DAG6KuGxUuI/r_T9xmtR3-aXrAFUkelp4A/view?utm_content=DAG6KuGxUuI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h37f024cb7d"
+                link: "https://www.canva.com/design/DAG6KuGxUuI/r_T9xmtR3-aXrAFUkelp4A/view?utm_content=DAG6KuGxUuI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h37f024cb7d",
+                embedUrl: "https://www.canva.com/design/DAG6KuGxUuI/Js6Al-EXYwHrZnjeELa0KQ/view?embed"
             },
             {
                 id: 2,
@@ -95,7 +98,8 @@ const portfolioData = [
                 type: "PDF Document",
                 icon: "⚙️",
                 description: "Metal material exploration, properties, and fabrication processes",
-                link: "https://www.canva.com/design/DAG6K3Vr_BI/IkDZE083BglEA0sPv5JxUQ/view?utm_content=DAG6K3Vr_BI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h816e448e1a"
+                link: "https://www.canva.com/design/DAG6K3Vr_BI/IkDZE083BglEA0sPv5JxUQ/view?utm_content=DAG6K3Vr_BI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h816e448e1a",
+                embedUrl: "https://www.canva.com/design/DAG6K3Vr_BI/tjrd5FR4aO9yG2EipBshKA/view?embed"
             },
             {
                 id: 3,
@@ -103,7 +107,8 @@ const portfolioData = [
                 type: "PDF Document",
                 icon: "🧴",
                 description: "Plastic material exploration, properties, and fabrication processes",
-                link: "https://www.canva.com/design/DAG3Az0ZnUA/v2N_7zFyHBLfCPuxpgx3Bg/view?utm_content=DAG3Az0ZnUA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he4c0aff66c"
+                link: "https://www.canva.com/design/DAG3Az0ZnUA/v2N_7zFyHBLfCPuxpgx3Bg/view?utm_content=DAG3Az0ZnUA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he4c0aff66c",
+                embedUrl: "https://www.canva.com/design/DAG3Az0ZnUA/0_ck8AgbymZXEYbyuzRdJA/view?embed"
             }
         ]
     },
@@ -119,7 +124,8 @@ const portfolioData = [
                 type: "Presentation",
                 icon: "📔",
                 description: "Documentation and analysis of daily interactions with products and interfaces",
-                link: "https://www.canva.com/design/DAG6QB24aoc/AXovR6SmriUvnhOU98r2sQ/view?utm_content=DAG6QB24aoc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h166cde41b4"
+                link: "https://www.canva.com/design/DAG6QB24aoc/AXovR6SmriUvnhOU98r2sQ/view?utm_content=DAG6QB24aoc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h166cde41b4",
+                embedUrl: "https://www.canva.com/design/DAG6QB24aoc/Z7a1MVHmageKcGHGF2xwMg/view?embed"
             },
             {
                 id: 2,
@@ -134,7 +140,8 @@ const portfolioData = [
                 type: "Presentation",
                 icon: "🏯",
                 description: "Study of Japanese concept of behavioral triggers and nudge design in everyday interactions",
-                link: "#"
+                link: "https://www.canva.com/design/DAG5TtnlSdw/LKAGM9TFfwOdYRoL_ddBPw/view?utm_content=DAG5TtnlSdw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hca10f3bee9",
+                embedUrl: "https://www.canva.com/design/DAG5TtnlSdw/Oy-ghnOF2LZOy4ZL8peCYg/view?embed"
             },
             {
                 id: 4,
@@ -142,7 +149,8 @@ const portfolioData = [
                 type: "Presentation",
                 icon: "🔎",
                 description: "User research methodologies and findings for interaction design project",
-                link: "#"
+                link: "https://www.canva.com/design/DAG6oJ0O6EQ/BYLOYUFgmxwIRoIK_-g1bw/view?utm_content=DAG6oJ0O6EQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link",
+                embedUrl: "https://www.canva.com/design/DAG6oJ0O6EQ/BYLOYUFgmxwIRoIK_-g1bw/view?embed"
             },
             {
                 id: 5,
@@ -156,7 +164,8 @@ const portfolioData = [
                 title: "Chess Redesign",
                 type: "Chess Presentation",
                 description: "Final interaction redesign proposal based on research and audit insights",
-                link: "https://www.canva.com/design/DAG6bYWJM8c/4-uVjpkiYthn6gHh0ghEOw/view?utm_content=DAG6bYWJM8c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9cb498c8b6"
+                link: "https://www.canva.com/design/DAG6bYWJM8c/4-uVjpkiYthn6gHh0ghEOw/view?utm_content=DAG6bYWJM8c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9cb498c8b6",
+                embedUrl: "https://www.canva.com/design/DAG6bYWJM8c/xALQTnWjP5PlqUtE03SaZw/view?embed"
             }
         ]
     },
@@ -211,7 +220,8 @@ const portfolioData = [
                 icon: "🪙",
                 type: "Presentation",
                 description: "3 Final Designs of Ancient Indian Coin.",
-                link: "https://www.canva.com/design/DAG6h1_pq_4/ovA107pzDUDyvjBE0NNcPw/view?utm_content=DAG6h1_pq_4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbfcd9cdd3c"
+                link: "https://www.canva.com/design/DAG6h1_pq_4/ovA107pzDUDyvjBE0NNcPw/view?utm_content=DAG6h1_pq_4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbfcd9cdd3c",
+                embedUrl: "https://www.canva.com/design/DAG6h1_pq_4/AsxN3V8b96mh2ntDYtTmZg/view?embed"
             },
             {
                 id: 3,
@@ -242,6 +252,7 @@ const modalAssignments = document.getElementById('modalAssignments');
 const iframeModalOverlay = document.getElementById('iframeModalOverlay');
 const iframeModal = document.getElementById('iframeModal');
 const iframeModalClose = document.getElementById('iframeModalClose');
+const iframeModalFullscreen = document.getElementById('iframeModalFullscreen');
 const iframeModalTitle = document.getElementById('iframeModalTitle');
 const iframeContainer = document.getElementById('iframeContainer');
 
@@ -282,9 +293,47 @@ function createFileItem(file, folderId) {
     fileItem.setAttribute('role', 'listitem');
     
     const hasEmbed = file.embedUrl && file.embedUrl !== '#';
-    const buttonText = file.type === 'Scratch' || file.type === 'p5.js' || file.type === 'VS Code' ? 'View Project' : 'View Presentation';
+    const isScratch = file.type === 'Scratch';
     const icon = file.icon || getFileIcon(file.type);
     const iconHtml = file.iconImage ? `<img src="${file.iconImage}" alt="${file.title} icon" style="width: 1.5rem; height: 1.5rem; object-fit: contain;">` : icon;
+    
+    let buttonsHtml = '';
+    if (isScratch && hasEmbed) {
+        // Scratch: Two buttons (Run Here + View Project)
+        buttonsHtml = `
+            <div class="file-buttons">
+                <button class="file-run-btn" data-embed-url="${file.embedUrl}" data-title="${file.title}" aria-label="Run ${file.title} embedded">▶ Run Here</button>
+                <a href="${file.link}" 
+                   target="_blank" 
+                   rel="noopener noreferrer" 
+                   class="file-link"
+                   aria-label="View ${file.title} - Opens in new tab">
+                    View Project →
+                </a>
+            </div>
+        `;
+    } else if (hasEmbed) {
+        // Has embed: Single button that opens embed
+        buttonsHtml = `
+            <div class="file-buttons">
+                <button class="file-run-btn" data-embed-url="${file.embedUrl}" data-title="${file.title}" aria-label="View ${file.title} presentation">View Presentation →</button>
+            </div>
+        `;
+    } else {
+        // No embed: Single button to external link
+        const buttonText = file.type === 'p5.js' || file.type === 'VS Code' ? 'View Project' : 'View Presentation';
+        buttonsHtml = `
+            <div class="file-buttons">
+                <a href="${file.link}" 
+                   target="_blank" 
+                   rel="noopener noreferrer" 
+                   class="file-link"
+                   aria-label="View ${file.title} - Opens in new tab">
+                    ${buttonText} →
+                </a>
+            </div>
+        `;
+    }
     
     fileItem.innerHTML = `
         <span class="file-icon" aria-hidden="true">${iconHtml}</span>
@@ -292,14 +341,7 @@ function createFileItem(file, folderId) {
             <div class="file-title">${file.title}</div>
             <div class="file-description">${file.description}</div>
         </div>
-        <a href="${file.link}" 
-           target="_blank" 
-           rel="noopener noreferrer" 
-           class="file-link"
-           aria-label="View ${file.title} - Opens in new tab">
-            ${buttonText} →
-        </a>
-        ${hasEmbed ? `<button class="file-run-btn" data-embed-url="${file.embedUrl}" data-title="${file.title}" aria-label="Run ${file.title} embedded">▶ Run</button>` : ''}
+        ${buttonsHtml}
     `;
     
     // Attach event listener to Run button if it exists
@@ -365,9 +407,39 @@ function openSubjectModal(subject) {
         fileCard.className = 'file-item';
         
         const hasEmbed = file.embedUrl && file.embedUrl !== '#';
-        const buttonText = file.type === 'Scratch' || file.type === 'p5.js' || file.type === 'VS Code' ? 'View Project' : 'View Presentation';
+        const isScratch = file.type === 'Scratch';
         const icon = file.icon || getFileIcon(file.type);
         const iconHtml = file.iconImage ? `<img src="${file.iconImage}" alt="${file.title} icon" style="width: 1.5rem; height: 1.5rem; object-fit: contain;">` : icon;
+        
+        let buttonsHtml = '';
+        if (isScratch && hasEmbed) {
+            // Scratch: Two buttons (Run Here + View Project)
+            buttonsHtml = `
+                <div class="file-buttons">
+                    <button class="file-run-btn" aria-label="Run ${file.title} embedded">▶ Run Here</button>
+                    <a href="${file.link}" target="_blank" rel="noopener noreferrer" class="file-link" aria-label="View ${file.title} - Opens in new tab">
+                        View Project →
+                    </a>
+                </div>
+            `;
+        } else if (hasEmbed) {
+            // Has embed: Single button that opens embed
+            buttonsHtml = `
+                <div class="file-buttons">
+                    <button class="file-run-btn" aria-label="View ${file.title} presentation">View Presentation →</button>
+                </div>
+            `;
+        } else {
+            // No embed: Single button to external link
+            const buttonText = file.type === 'p5.js' || file.type === 'VS Code' ? 'View Project' : 'View Presentation';
+            buttonsHtml = `
+                <div class="file-buttons">
+                    <a href="${file.link}" target="_blank" rel="noopener noreferrer" class="file-link" aria-label="View ${file.title} - Opens in new tab">
+                        ${buttonText} →
+                    </a>
+                </div>
+            `;
+        }
         
         fileCard.innerHTML = `
             <span class="file-icon" aria-hidden="true">${iconHtml}</span>
@@ -375,10 +447,7 @@ function openSubjectModal(subject) {
                 <div class="file-title">${file.title}</div>
                 <div class="file-description">${file.description}</div>
             </div>
-            <a href="${file.link}" target="_blank" rel="noopener noreferrer" class="file-link" aria-label="View ${file.title} - Opens in new tab">
-                ${buttonText} →
-            </a>
-            ${hasEmbed ? `<button class="file-run-btn" aria-label="Run ${file.title} embedded">▶ Run</button>` : ''}
+            ${buttonsHtml}
         `;
         
         // Attach Run button event if embedUrl exists
@@ -421,7 +490,7 @@ function openIframeModal(title, embedUrl) {
     
     // Set title and embed iframe
     iframeModalTitle.textContent = title;
-    iframeContainer.innerHTML = `<iframe src="${embedUrl}" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>`;
+    iframeContainer.innerHTML = `<iframe src="${embedUrl}" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="${title}"></iframe>`;
     
     // Show iframe modal
     iframeModalOverlay.classList.add('is-open');
@@ -453,6 +522,18 @@ function closeIframeModal() {
 // Iframe modal event listeners
 iframeModalClose.addEventListener('click', closeIframeModal);
 iframeModalOverlay.addEventListener('click', closeIframeModal);
+iframeModalFullscreen.addEventListener('click', toggleIframeFullscreen);
+
+// Fullscreen toggle function
+function toggleIframeFullscreen() {
+    if (!document.fullscreenElement) {
+        iframeModal.requestFullscreen().catch(err => {
+            console.log('Error attempting to enable fullscreen:', err);
+        });
+    } else {
+        document.exitFullscreen();
+    }
+}
 
 modalClose.addEventListener('click', closeSubjectModal);
 modalOverlay.addEventListener('click', closeSubjectModal);
